@@ -1,0 +1,39 @@
+.Square {
+  flex: 1;
+  min-width: 35px;
+  max-width: 35px;
+  min-height: 35px;
+  max-height: 35px;
+  border: 1px solid #eee;
+  background-color:  #009999
+;
+}
+
+.Square:hover {
+  cursor: pointer;
+  background-color: #004d4d;
+}
+
+.vh {
+  border-color: yellow;
+}
+
+.v5 {
+  background-color: #0000ff;
+}
+
+.v4 {
+  background-color: #000033;
+}
+
+.v3 {
+  background-color: #0d0d0d;
+}
+
+.v2 {
+  background-color: #595959;
+}
+
+.v1 {
+  background-color: #b3b3b3;
+}

@@ -1,0 +1,29 @@
+.BoardSquare {
+  flex: 1;
+  min-width: 35px;
+  max-width: 35px;
+  min-height: 35px;
+  max-height: 35px;
+  border: 1px solid #eee;
+  background-color:  #2d8bb6;
+}
+
+.value-5 {
+  background-color: #ff5e00;
+}
+
+.value-4 {
+  background-color: #000033;
+}
+
+.value-3 {
+  background-color: #0d0d0d;
+}
+
+.value-2 {
+  background-color: #595959;
+}
+
+.value-1 {
+  background-color: #b3b3b3;
+}

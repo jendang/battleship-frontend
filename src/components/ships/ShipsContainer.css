@@ -1,0 +1,8 @@
+.Page {
+  text-align: center;
+}
+
+.BoardAndShips {
+  display: flex;
+  justify-content: center;
+}

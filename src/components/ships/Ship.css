@@ -1,0 +1,39 @@
+div .carrier {
+  min-height: 35px;
+  max-height: 35px;
+  width: 175px;
+  background-color: #0000ff;
+  margin: 20px;
+}
+
+div .battleship {
+  min-height: 35px;
+  max-height: 35px;
+  width: 140px;
+  background-color: #000033;
+  margin: 20px;
+}
+
+div .cruiser {
+  min-height: 35px;
+  max-height: 35px;
+  width: 105px;
+  background-color: #0d0d0d;
+  margin: 20px;
+}
+
+div .submarine {
+  min-height: 35px;
+  max-height: 35px;
+  width: 105px;
+  background-color: #595959;
+  margin: 20px;
+}
+
+div .destroyer {
+  min-height: 35px;
+  max-height: 35px;
+  width: 70px;
+  background-color: #b3b3b3;
+  margin: 20px;
+}

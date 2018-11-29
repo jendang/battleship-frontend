@@ -1,0 +1,23 @@
+.Button {
+  margin: 1.5em auto;
+  background-color: #4da6ff;
+  color: white;
+  text-align: center;
+  font-size: 0.9em;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+  font-weight: bold;
+  width: 130px;
+  height: 50px;
+  color: white;
+}
+
+.Button:hover {
+  background-color: #009999;
+  cursor: pointer;
+}
+
+.Submit {
+  margin: 30px;
+}
